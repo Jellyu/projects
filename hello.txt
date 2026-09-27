@@ -1,4 +1,8 @@
 Hello from my server
 Git is tracking this file.
 I'm learning Git.
+<<<<<<< HEAD
 This is only on master branch.
+=======
+This is only on test branch.
+>>>>>>> test
