@@ -1,3 +1,4 @@
 Hello from my server
 Git is tracking this file.
 I'm learning Git.
+This is only on master branch.
